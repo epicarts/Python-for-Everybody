@@ -5,5 +5,6 @@ while True:
     if line == 'done' :
         break
     print(line)
+    print('Iamyoungho')
 print('end')
 
