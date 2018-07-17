@@ -7,6 +7,8 @@ while True:
     if line == 'test' :
         break
     print(line)
-    print('Iamyoungho')
+    print(s'sdfsdF')
+    print(ssdfsdf)
+
 print('end')
 
