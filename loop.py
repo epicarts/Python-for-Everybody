@@ -4,6 +4,8 @@ while True:
         continue
     if line == 'done' :
         break
+    if line == 'test' :
+        break
     print(line)
 print('end')
 
